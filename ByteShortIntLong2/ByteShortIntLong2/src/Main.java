@@ -26,7 +26,10 @@ public class Main {
 
         byte newByteValue = (byte) (minByte /2);
         short newShortValue = (short) (minShort /2);
-        
+        System.out.println(newByteValue);
+        System.out.println(newShortValue);
+
+
 
     }
 }
